@@ -1,5 +1,5 @@
 # Earthquake-learn
-A deep neural network to learn about major earthquake and predict the likeliness of an earthquake occurring given a date, lattitute and longitude.
+A deep neural network to learn about major earthquake from a dataset and output a model to predict the likeliness of an earthquake occurring given a date, lattitute and longitude.
 
 # Dependencies
 <code> python 3.6 </code>
